@@ -2,11 +2,13 @@
 
 The transcendental framework establishing the conditions under which AI outputs can become knowledge.
 
-## Core Pillars
+## 🏛️ The Three Pillars (Repositories)
 
-1. **TRIGNUM-300M**: The technical a priori layer for autonomous AI. A zero-model structural logic validator.
-2. **T-CHIP**: The hardware-state human sovereignty mirror.
-3. **TQPE**: Trignumental Quantum Phase Estimation.
+Trignumentality is uniquely embodied across three distinct repositories, separating pure theory from engineering application and advanced infrastructure:
+
+1. **[Trignumentality](https://github.com/Codfski/trignumentality) (Foundation Layer)**: *This repository.* The original theoretical papers, doctrine, and the architectural principles.
+2. **[TRIGNUM-300M](https://github.com/Codfski/TRIGNUM-300M-TCHIP) (Engineering Layer)**: The technical *a priori* for autonomous AI. A deterministic, zero-model logic validator.
+3. **[TRIGNUM Main](https://github.com/Codfski/Trignum) (Infrastructure Layer)**: Applied enterprise architecture. Tensor RAG, Epistemic Authorization, and real-world deployment across domains.
 
 ## ⚛️ Quantum Phase Estimation (TQPE)
 
