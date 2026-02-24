@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-02-24T01:13:38.339276+00:00",
+  "h2": {
+    "status": "EPISTEMICALLY_AUTHORIZED",
+    "molecule": "H\u2082",
+    "exact_energy": -1.1373025462626143,
+    "qpe_energy": -1.1361639117927633,
+    "qpe_uncertainty": 1.159758265774823e-05,
+    "error_Ha": 0.0011386344698509632,
+    "epistemic_score": 0.828498731060298,
+    "transaction_id": "6293096bf2a92df1b1ce461a9795567c",
+    "total_time_ms": 17.75120000820607
+  },
+  "lih": {
+    "status": "EPISTEMICALLY_AUTHORIZED",
+    "molecule": "LiH",
+    "exact_energy": -8.28665121131512,
+    "qpe_energy": -8.285697486838925,
+    "qpe_uncertainty": 9.605931511087267e-06,
+    "error_Ha": 0.0009537244761936847,
+    "epistemic_score": 0.6104765510476126,
+    "transaction_id": "2bb07c7e1d67e3c03d41fc686e1bbe70",
+    "total_time_ms": 11.20690000243485
+  },
+  "benchmark": {
+    "total_samples": 517,
+    "positive_samples": 92,
+    "negative_samples": 425,
+    "tp": 91,
+    "fp": 0,
+    "tn": 425,
+    "fn": 1,
+    "precision": 1.0,
+    "recall": 0.9891304347826086,
+    "f1": 0.994535519125683,
+    "accuracy": 0.9980657640232108,
+    "total_time_ms": 3.52019997080788,
+    "throughput_per_sec": 146866.6565216036
+  },
+  "using_real_trignum": true
+}
