@@ -1,5 +1,7 @@
 # TRIGNUMENTALITY
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18736774.svg)](https://doi.org/10.5281/zenodo.18736774)
+
 The transcendental framework establishing the conditions under which AI outputs can become knowledge.
 
 ## 🏛️ The Three Pillars (Repositories)
