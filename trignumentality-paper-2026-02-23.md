@@ -196,7 +196,17 @@ All knowledge must be ultimately referable to the world of experience. Purely sy
 
 ## 3. THE TECHNICAL EMBODIMENT: TRIGNUM PROJECTS
 
-### 3.1 TRIGNUM-300M: The Execution Layer
+Trignumentality is uniquely embodied across three distinct repositories, separating pure theory from engineering application and advanced infrastructure.
+
+### 3.1 Trignumentality: The Foundation Layer
+
+**Repository:** github.com/Codfski/trignumentality
+
+This is the primary repository hosting the foundational philosophical doctrine, original theoretical papers (including this manuscript), and the core frameworks defining Epistemic AI. It serves as the untainted source of truth for the Trignumental philosophy.
+
+---
+
+### 3.2 TRIGNUM-300M: The Engineering Layer
 
 **Repository:** github.com/Codfski/TRIGNUM-300M-TCHIP
 
@@ -240,7 +250,7 @@ T-CHIP embodies the Raw Material Principle (outputs are mirrors, not truths) and
 
 ---
 
-### 3.2 TRIGNUM Main: The Infrastructure Layer
+### 3.3 TRIGNUM Main: The Applied Infrastructure Layer
 
 **Repository:** github.com/Codfski/Trignum
 
@@ -358,8 +368,9 @@ The TRIGNUM projects are the proof of concept. Trignumentality is the foundation
 ## 8. REFERENCES
 
 1. Kant, I. (1781/1998). *Critique of Pure Reason.* Cambridge University Press.
-2. Abdessattar, M. (2026). *TRIGNUM: Epistemic Authorization for AI Systems.* GitHub.
-3. Abdessattar, M. (2026). *TRIGNUM-300M: The Pre-Flight Check for Autonomous AI.* GitHub.
+2. Abdessattar, M. (2026). *Trignumentality: The Philosophical Foundation.* GitHub. github.com/Codfski/trignumentality
+3. Abdessattar, M. (2026). *TRIGNUM: Applied Epistemic Infrastructure.* GitHub. github.com/Codfski/Trignum
+4. Abdessattar, M. (2026). *TRIGNUM-300M: The Pre-Flight Check for Autonomous AI.* GitHub. github.com/Codfski/TRIGNUM-300M-TCHIP
 4. Bender, E. M., et al. (2021). *On the Dangers of Stochastic Parrots.* ACM FAccT.
 5. Heidegger, M. (1927/1962). *Being and Time.* Harper & Row.
 6. Jaspers, K. (1953). *The Origin and Goal of History.* Yale University Press.

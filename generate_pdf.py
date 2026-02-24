@@ -485,8 +485,16 @@ story.append(PageBreak())
 # ════════════════════════
 story.append(P("3. THE TECHNICAL EMBODIMENT: TRIGNUM PROJECTS", h1))
 story.append(hr())
+story.append(P("Trignumentality is uniquely embodied across three distinct repositories, separating pure theory "
+    "from engineering application and advanced infrastructure."))
 
-story.append(P("3.1 TRIGNUM-300M: The Execution Layer", h2))
+story.append(P("3.1 Trignumentality: The Foundation Layer", h2))
+story.append(P("<b>Repository:</b> github.com/Codfski/trignumentality<br/><br/>"
+    "This is the primary repository hosting the foundational philosophical doctrine, original theoretical papers "
+    "(including this manuscript), and the core frameworks defining Epistemic AI. It serves as the untainted "
+    "source of truth for the Trignumental philosophy."))
+
+story.append(P("3.2 TRIGNUM-300M: The Engineering Layer", h2))
 story.append(P(
     "<b>Repository:</b> github.com/Codfski/TRIGNUM-300M-TCHIP<br/><br/>"
     "TRIGNUM-300M is the technical a priori of Trignumentality — a zero-model reasoning integrity "
@@ -564,7 +572,7 @@ for item in embed_image(
     story.append(item)
 story.append(sp(0.5))
 
-story.append(P("3.2 TRIGNUM Main: The Infrastructure Layer", h2))
+story.append(P("3.3 TRIGNUM Main: The Applied Infrastructure Layer", h2))
 
 story.append(P(
     "<b>Repository:</b> github.com/Codfski/Trignum<br/><br/>"
@@ -677,7 +685,8 @@ story.append(P("8. REFERENCES", h1))
 story.append(hr())
 refs = [
     "Kant, I. (1781/1998). <i>Critique of Pure Reason.</i> Cambridge University Press.",
-    "Abdessattar, M. (2026). <i>TRIGNUM: Epistemic Authorization for AI Systems.</i> GitHub. github.com/Codfski/Trignum",
+    "Abdessattar, M. (2026). <i>Trignumentality: The Philosophical Foundation.</i> GitHub. github.com/Codfski/trignumentality",
+    "Abdessattar, M. (2026). <i>TRIGNUM: Applied Epistemic Infrastructure.</i> GitHub. github.com/Codfski/Trignum",
     "Abdessattar, M. (2026). <i>TRIGNUM-300M: The Pre-Flight Check for Autonomous AI.</i> GitHub. github.com/Codfski/TRIGNUM-300M-TCHIP",
     "Bender, E. M., et al. (2021). <i>On the Dangers of Stochastic Parrots.</i> ACM FAccT.",
     "Heidegger, M. (1927/1962). <i>Being and Time.</i> Harper &amp; Row.",
